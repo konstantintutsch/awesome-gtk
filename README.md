@@ -634,7 +634,7 @@ Clients for commercial social platforms that had their API access cut off in a w
 
 ### Cryptography
 
-- [Lock](https://konstantintutsch.com/Lock) - GnuPG front-end for cryptography operations and key management `#c` `#gtk4` `#libadwaita` `#gnome`
+- [Lock](https://konstantintutsch.com/Lock) - GnuPG front-end for cryptography operations and key management `#c` `#gtk4` `#libadwaita`.
 
 ## Digital Forensics
 
